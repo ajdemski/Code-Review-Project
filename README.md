@@ -2,11 +2,13 @@
 
 #### By _** Aaron Demski **_
 
+#### _A Code Review Project_
+
 ## Technologies Used
 
-*_Html_
-*_Css_
-*_VsCode_
+* _Html_
+* _Css_
+* _VsCode_
 
 ## Description
 
