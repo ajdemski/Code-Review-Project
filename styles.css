@@ -5,7 +5,6 @@ h1 {
     margin: 0;
     padding: 0;
     background: transparent;
-
     }
 
 p   {
@@ -13,6 +12,10 @@ p   {
     font-size: 20px;
     font-weight: lighter;
     background: transparent;
+    margin: 0;
+    padding: 0;
+    margin-left: 3%;
+    margin-right: 3%;
     }
 
 .center {
@@ -36,11 +39,33 @@ h3 {
     background: transparent;
 }
 
-* {background-color: rgb(14, 14, 14)}
-
-* {background-image: url(https://wallpapercave.com/wp/wp3416336.jpg)}
-
+* {background-color: rgb(15, 15, 15)}
+* {background-image: url(https://c.wallhere.com/photos/51/51/nagyistv_n_t_rkeve_magyarorsz_g_magyar_hungary_nagyistvan8_studio_t_kl_mp_s-933532.jpg!d);}
+* {background-repeat: no-repeat;}
+* {background-position: center center;}
+* {background-size: 110%;}
+* {background-blend-mode: overlay;}
 div {
     background: transparent;
     
+}
+
+strong {
+    background: transparent;
+}
+
+b {
+    background: transparent;
+}
+
+a {
+    background: transparent;
+}
+
+span {
+    background: transparent;
+}
+
+img {
+    margin-top: 2%;
 }
