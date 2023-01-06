@@ -16,8 +16,9 @@ _A Code Review Project From Aaron Demski, In this repository youll find my index
 
 ## Setup/Installation Requirements
 
-* _Get GitHub_
-* _Clone my repository to your desktop._
+* _download VsCode_
+* _Clone my repository to your desktop using VsCode._
+* _type "git clone (My-GitHub-Repository-Link)_
 * _Navigte to the top level of the directory._
 * _Open index.html in your browser._
 

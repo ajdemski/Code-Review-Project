@@ -94,6 +94,7 @@ li {
 ol {
     background: transparent;
 }
+
 div {
     column-count: 3;
     column-gap: 10px;
@@ -108,13 +109,13 @@ div {
     margin-top: 1%;
     column-rule-color: blueviolet;
 
-  }
+}
 
 h4 {
     font-size: 30px;
     background:transparent;
     margin-top: 1%;
-  }
+}
 
 h5 {
     font-size: 30px;
