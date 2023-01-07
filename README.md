@@ -12,19 +12,19 @@
 
 ## Description
 
-_A Code Review Project From Aaron Demski, In this repository youll find my index.html website and a styles.css, and obviously the README.md. The Webpage I made is all about me including my favorite food, video games, and favorite places ive visited. It also includes a bio about me with my interests and reasons why I decided to do coding._
+_A Code Review Project from Aaron Demski, In this repository youll find my index.html Website and a styles.css, and obviously the README.md. The Webpage I made is all about me including my favorite food, video games, and favorite places i've visited. It also includes a bio about me with my interests and reasons why I decided to do coding._
 
 ## Setup/Installation Requirements
 
-* _download VsCode_
+* _Download VsCode_
 * _Clone my repository to your desktop using VsCode._
-* _type "git clone (My-GitHub-Repository-Link)_
+* _Type "git clone (My-GitHub-Repository-Link)_
 * _Navigte to the top level of the directory._
 * _Open index.html in your browser._
 
 ## Known Bugs
 
-* _No known Bugs_
+* _No Known Bugs_
 
 ## License
 
