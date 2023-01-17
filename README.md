@@ -6,6 +6,7 @@
 
 ## Technologies Used
 
+* _JavaScript_
 * _Html_
 * _Css_
 * _VsCode_
@@ -16,11 +17,10 @@ _A Code Review Project from Aaron Demski, In this repository youll find my index
 
 ## Setup/Installation Requirements
 
-* _Download VsCode_
 * _Clone my repository to your desktop using VsCode._
 * _Type "git clone (My-GitHub-Repository-Link)_
 * _Navigte to the top level of the directory._
-* _Open index.html in your browser._
+* _Open index.html in the file you cloned._
 
 ## Known Bugs
 
