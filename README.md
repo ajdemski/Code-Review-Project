@@ -10,10 +10,11 @@
 * _Html_
 * _Css_
 * _VsCode_
+* _GitHub_
 
 ## Description
 
-_A Code Review Project from Aaron Demski, In this repository youll find my index.html Website and a styles.css, and obviously the README.md. The Webpage I made is all about me including my favorite food, video games, and favorite places i've visited. It also includes a bio about me with my interests and reasons why I decided to do coding._
+_A Code Review Project from Aaron Demski, In this repository you'll find my index.html Website and a styles.css, and obviously the README.md. The Webpage I made is all about me including my favorite food, video games, and favorite places i've visited. It also includes a bio about me with my interests and reasons why I decided to do coding._
 
 ## Setup/Installation Requirements
 
